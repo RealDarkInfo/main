@@ -1,0 +1,28 @@
+html{
+  background-color: #1D1F1C;
+  min-height: 100%;
+  font-family: 'poppins' ,sans-serif;
+}
+a{
+  color: rgba(233, 233, 233, 0.8);
+  text-decoration: none;
+
+}
+a:hover {
+color: rgba(233, 233, 233, 1.0);
+}
+
+h3{
+  color: rgba(233, 233, 233, 0.8);
+}
+
+p{
+  color: rgba(233, 233, 233, 0.8);
+  width: 900px;
+}
+span {
+  color: red;
+pre{
+    color: rgba(233, 233, 233, 0.8);
+    width: 900px;
+  }
