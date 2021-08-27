@@ -12,4 +12,4 @@
 * Link to our Resources Page 
  [[https://realdarkinfo.github.io/Resources/][Dark_Info_Resources]]
 * Link to our main Page
- [[https://realdarkinfo.github.io/Site/][Main_Site]]
+ [[https://realdarkinfo.github.io/main/][Main_Site]]
