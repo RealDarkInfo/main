@@ -1,15 +1,1 @@
-#+TITLE: Welcome to Dark_Info
-#+author: Dark_Info
-#+options: num:nil
 
-* About us
- * Dark_Info is a group of like minded individuals dedicated to bringing you the news from underground around the internet. We at Dark_Info have many interests including linux,malware,privacy,security,crypto, and the occasional internet mystery. At Dark_Info We also want to keep you up to date with the latest dnm news and general happening on the deep ark web. Another thing that us at Dark_Info want to to keep you up to date with is the latest trends in piracy cause we know you like your free shit.
-
-* Why do we do it
- * Freedom, freedom is the reason we do it. We believe that freedom of information is one of if not the modt important thing that can help humanity advance. why is information hidden in the first place? its hidden to keep knowledge from those who can do something with it whether it is good or bad. knowledge has power and we here at Dark_Info want to bring that knowledge to those who seek it un altered.
-* What is this repo about?
- * This repo is our main page where we will be posting articles and podcasts
-* Link to our Resources Page 
- [[https://realdarkinfo.github.io/Resources/][Dark_Info_Resources]]
-* Link to our main Page
- [[https://realdarkinfo.github.io/main/][Main_Site]]
